@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/school-plus-app/static/css/main.15f20790.css",
-    "main.js": "/school-plus-app/static/js/main.b0973255.js",
+    "main.css": "/school-plus-app/static/css/main.96517f39.css",
+    "main.js": "/school-plus-app/static/js/main.3cff2bde.js",
     "static/js/787.1829ba59.chunk.js": "/school-plus-app/static/js/787.1829ba59.chunk.js",
     "service-worker.js": "/school-plus-app/service-worker.js",
     "index.html": "/school-plus-app/index.html",
-    "main.15f20790.css.map": "/school-plus-app/static/css/main.15f20790.css.map",
-    "main.b0973255.js.map": "/school-plus-app/static/js/main.b0973255.js.map",
+    "main.96517f39.css.map": "/school-plus-app/static/css/main.96517f39.css.map",
+    "main.3cff2bde.js.map": "/school-plus-app/static/js/main.3cff2bde.js.map",
     "787.1829ba59.chunk.js.map": "/school-plus-app/static/js/787.1829ba59.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.15f20790.css",
-    "static/js/main.b0973255.js"
+    "static/css/main.96517f39.css",
+    "static/js/main.3cff2bde.js"
   ]
 }
